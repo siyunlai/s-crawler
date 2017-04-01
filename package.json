@@ -1,7 +1,7 @@
 {
   "name": "s-crawler",
   "version": "0.2.1",
-  "license": "BSD",
+  "license": "BSD-3-Clause",
   "author": "Siyun Lai [sizeon@gmail.com]",
   "contributors": [],
   "description": "A crawler",
