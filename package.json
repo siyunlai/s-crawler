@@ -1,6 +1,6 @@
 {
   "name": "s-crawler",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "license": "BSD",
   "author": "Siyun Lai [sizeon@gmail.com]",
   "contributors": [],
@@ -10,7 +10,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.13.3"
   },
   "engines": {
     "node": "6"
