@@ -5,6 +5,9 @@
   "author": "Siyun Lai [sizeon@gmail.com]",
   "contributors": [],
   "description": "A crawler",
+  "keywords": [
+    "crawler"
+  ],
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -16,10 +19,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/siyunlai/s-crawler"
-  },
-  "keywords": [
-    "node",
-    "heroku",
-    "express"
-  ]
+  }
 }
