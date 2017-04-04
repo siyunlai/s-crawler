@@ -12,9 +12,14 @@
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "csv": "^1.1.1",
+    "request": "^2.81.0",
+    "s-util": "*"
+  },
   "engines": {
-    "node": "6"
+    "node": ">6.0"
   },
   "repository": {
     "type": "git",
